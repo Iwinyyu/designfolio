@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/designfolio/static/css/main.0c289cf0.css",
+    "main.js": "/designfolio/static/js/main.a2fcb0f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/designfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/blog2.jpg": "/designfolio/static/media/blog2.43661d9363aed127adf1.jpg",
+    "static/media/contruction.jpg": "/designfolio/static/media/contruction.08c2ae4f2da92e21d532.jpg",
+    "static/media/homeHero.png": "/designfolio/static/media/homeHero.f80bfa7c74cecf26f879.png",
+    "static/media/Outfit-VariableFont_wght.ttf": "/designfolio/static/media/Outfit-VariableFont_wght.bc779fb16a97a6842a72.ttf",
+    "static/media/blogandnewsone.jpg": "/designfolio/static/media/blogandnewsone.3b6b5539469aacb28a8e.jpg",
+    "static/media/businesss.webp": "/designfolio/static/media/businesss.ca23418ea22828636189.webp",
+    "static/media/market.webp": "/designfolio/static/media/market.233f8315d4453119182b.webp",
+    "static/media/consult.webp": "/designfolio/static/media/consult.6f6f3c411069f2fad765.webp",
+    "static/media/lifestyle.webp": "/designfolio/static/media/lifestyle.b94d70bdd46dd6a02baf.webp",
+    "static/media/GOFOLIO_WHITE.svg": "/designfolio/static/media/GOFOLIO_WHITE.5ec35464a42fc4fe1c1f092191bf500c.svg",
+    "static/media/ICONS_WHITE_STOCK.svg": "/designfolio/static/media/ICONS_WHITE_STOCK.342d719dadac821cc4337876daa497a0.svg",
+    "static/media/GoFolio_MY_SECURITIES.svg": "/designfolio/static/media/GoFolio_MY_SECURITIES.6bf822216a3f7587a6749b9ea91c4f2b.svg",
+    "static/media/GoFolio_PORTFOLIO.svg": "/designfolio/static/media/GoFolio_PORTFOLIO.21ad72dfa333973b8cafe8fe4e9bf931.svg",
+    "static/media/GoFolio_PORTFOLIO_CARD_ICON.svg": "/designfolio/static/media/GoFolio_PORTFOLIO_CARD_ICON.100bfce2f8ca63a5d58afd8e421af6cc.svg",
+    "static/media/GoFolio_OVERVIEW.svg": "/designfolio/static/media/GoFolio_OVERVIEW.c686962624652cbd40896dc27a5c7ce5.svg",
+    "static/media/instagram.svg": "/designfolio/static/media/instagram.796380a867d4009c8b058d54a7262b16.svg",
+    "static/media/carousel-slide-one.svg": "/designfolio/static/media/carousel-slide-one.6973499ed0227534bd60af93544b338f.svg",
+    "static/media/GoFolio_HELP.svg": "/designfolio/static/media/GoFolio_HELP.9c21e08e1df2ee607df03732481b62db.svg",
+    "index.html": "/designfolio/index.html",
+    "static/media/facebook.svg": "/designfolio/static/media/facebook.4f441766bbf890c92402ab2852c8a432.svg",
+    "static/media/GoFolio_LOGOUT.svg": "/designfolio/static/media/GoFolio_LOGOUT.7fc66812dc8db0f4fb76de39f588e763.svg",
+    "static/media/sideCurve.svg": "/designfolio/static/media/sideCurve.905543d0cb2a2983fa0fc530c88428b5.svg",
+    "static/media/next_theme_color.svg": "/designfolio/static/media/next_theme_color.56dd130ceb5a121a6b57b7e14bd84728.svg",
+    "static/media/previous_theme_color.svg": "/designfolio/static/media/previous_theme_color.97ba15fd97c1c7f6fed47446096258de.svg",
+    "static/media/next_white.svg": "/designfolio/static/media/next_white.e58b1a8958500268f19505d14c335727.svg",
+    "static/media/previous_white.svg": "/designfolio/static/media/previous_white.529615286e8e766a42dcbadfd87bcca5.svg",
+    "static/media/mail.svg": "/designfolio/static/media/mail.35c70ca08215694f7afef49b44bd1516.svg",
+    "static/media/GoFolio_MY_ACCOUNT.svg": "/designfolio/static/media/GoFolio_MY_ACCOUNT.8f2751e5dbd0bdb621873c7798af7d3e.svg",
+    "static/media/dropdown_arrowx2.svg": "/designfolio/static/media/dropdown_arrowx2.2256ea0834db7d070b5e7ff7a62a155a.svg",
+    "main.0c289cf0.css.map": "/designfolio/static/css/main.0c289cf0.css.map",
+    "main.a2fcb0f8.js.map": "/designfolio/static/js/main.a2fcb0f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/designfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c289cf0.css",
+    "static/js/main.a2fcb0f8.js"
+  ]
+}
